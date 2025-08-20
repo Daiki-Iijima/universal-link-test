@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "6751274829.com.djima.universal-test",
+        "appID": "49BQT24CU7.com.djima.universal-test",
         "paths": [ "/" ]
       }
     ]
