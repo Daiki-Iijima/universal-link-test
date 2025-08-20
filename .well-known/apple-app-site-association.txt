@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "App ID Prefix.BundleID",
+        "appID": "6751274829.com.djima.universal-test",
         "paths": [ "/" ]
       }
     ]
