@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "49BQT24CU7.com.djima.universal-test",
-        "paths": [ "/" ]
+        "paths": [ "/*" ]
       }
     ]
   }
